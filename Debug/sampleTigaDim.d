@@ -1,0 +1,1 @@
+sampleTigaDim.d: ../sampleTigaDim.cpp
